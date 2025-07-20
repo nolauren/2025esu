@@ -62,7 +62,7 @@ The course is guided by three questions:
 
 ### 11b (1.5h)
 
-### (1.5h)
+### 12b (1.5h)
 
 ### Final Presentations 
 
