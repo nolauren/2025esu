@@ -23,23 +23,26 @@ The course is guided by three questions:
 
 ### 2b: What is an image?  (1.5h)
   - Let's discuss: What is an image? How would you define it?
-  - How does a computer see an image? (URL TBA)[url here]
-
-### 3b: From pixel to JPEG (1.5h)
-  - Google Colab Notebook 
+  - How does a computer see an image? [Slides 1-13 and Colab](https://distantviewing.org/tutorial/dvt_tutorial_slides_01.pdf)
+  
+    
+### 3b: What is an image? What is your data? (1.5h)
+  - [Continue with slides 1-13 and Colab](https://distantviewing.org/tutorial/dvt_tutorial_slides_01.pdf)
+  - Your dataset: What kinds of images do you want to work with?
 
 
 ## Tuesday: How do we analyze images? 
 
-### 4b (1.5h) Distnat Viewing: Theory and Method
-  - What is distnat viewing as a theory and method? (Slides)[]
+### 4b (1.5h) Distant Viewing: Theory and Method
+  - What is distant viewing as a theory and method? [Continue with slides 14- End and Colab](https://distantviewing.org/tutorial/dvt_tutorial_slides_01.pdf)
 
 ### 5b (1.5h) How do we organize image data?
   - Data, Metadata, and Structure
-  - Let's organize a data set! 
+  - Let's organize a data set! [CREATE SLIDES]
 
 ### 6b (1.5h)  What is AI?
-- Let's discuss: what is AI?
+- Let's discuss: What is AI?
+- Explore [Teachable Machine]https://teachablemachine.withgoogle.com/) and 
 
 ## Wednesday
 
