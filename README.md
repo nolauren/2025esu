@@ -7,7 +7,7 @@ The course is guided by three questions:
 -  How do we analyze images with AI?
 -  What can we learn from analyzing images?
 
-# Tentative Schedule
+# Proposed Schedule
 
 ## Monday 
 
