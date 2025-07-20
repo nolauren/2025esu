@@ -42,22 +42,22 @@ The course is guided by three questions:
 
 ### 6b (1.5h)  What is AI?
 - Let's discuss: What is AI?
-- Explore [Teachable Machine]https://teachablemachine.withgoogle.com/) and 
+- Explore [Teachable Machine](https://teachablemachine.withgoogle.com/) and [Tensorflow Demos](https://www.tensorflow.org/js/demos)
 
 ## Wednesday
 
 ### Teaser Session (1.5h)
 
-### 7b (1.5h) AI: Distant Viewing Toolkit
+### 7b (1.5h) AI: Distant Viewing Explorer
   - Visit Disnantviewing.org/dvexplorer
   - Play around in pairs. Just explore! Select 2-3 of the models to share with the group. Explain why the group picked the model and data, what the model is doing, and what we might be able to learn by applying the approach. 
   - Discussion: How could we map the approaches and results of these algorithms onto concepts, ideas, and data that you care about? 
 
 ## Thursday 
 
-### 8b (1.5h) AI
-   - Collab Notebook
-   - 
+### 8b (1.5h) AI and Moving Images
+   -  Working with TV through [colab](https://colab.research.google.com/drive/1n7qWm47laCUJwg0-Rdx7pNw3dQWwuyxz?usp=sharing). 
+
 
 ### 9b (1.5h) AI: 
 
@@ -73,6 +73,13 @@ The course is guided by three questions:
 
 ### Final Presentations 
 
+
+
+### Additional Resources
+
+- [A visual intro to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+- [Tensorflow Playground](https://playground.tensorflow.org/)
+- 
 
 
 
