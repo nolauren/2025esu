@@ -49,7 +49,7 @@ The course is guided by three questions:
 ### Teaser Session (1.5h)
 
 ### 7b (1.5h) AI: Distant Viewing Explorer
-  - Visit Disnantviewing.org/dvexplorer
+  - Visit [distantviewing.org/dvexplorer](distantviewing.org/dvexplorer)
   - Play around in pairs. Just explore! Select 2-3 of the models to share with the group. Explain why the group picked the model and data, what the model is doing, and what we might be able to learn by applying the approach. 
   - Discussion: How could we map the approaches and results of these algorithms onto concepts, ideas, and data that you care about? 
 
@@ -59,8 +59,11 @@ The course is guided by three questions:
    -  Working with TV through [colab](https://colab.research.google.com/drive/1n7qWm47laCUJwg0-Rdx7pNw3dQWwuyxz?usp=sharing). 
 
 
-### 9b (1.5h) AI: 
+### 9b (1.5h) AI:  What else can we do?
+- Explore [Papers + Code](https://paperswithcode.com/methods) or [Hugging Face](https://huggingface.co/) in a group.
+- Select 1-2 methods to share with everyone and explain what the method does, why it interested your group, and how it might applied. 
 
+ 
 ### 10b (1.5h) Explore Projects
 - Select one of the following projects. How are they using AI?
       --  (Photogrammar)[www.photogrammar.org)
