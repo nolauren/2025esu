@@ -67,9 +67,13 @@ The course is guided by three questions:
 
 ## Friday
 
-### 11b (1.5h) Images and LLMs:
+### 11b (1.5h) Images and GenAI:
+- What is generative AI? 
+- Take a look at [Digital Documerica](www.digitaldocumeria.org). Let's discuss the role of LLMs.
+- Prompting with LLMs
 
-### 12b (1.5h) AI and LLMs
+### 12b (1.5h) Images and LLMs:
+- Comparing images with LLMs [Colab Notebook](URL)
 
 ### Final Presentations 
 
