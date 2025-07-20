@@ -1,10 +1,10 @@
-# 2025esu
+# 2025 ESU: AI and Images
 Materials for AI and Images course at ESU 2025 in Besancon, France. 
 
 The course is guided by three questions:
 
--  What is an image?
--  How do we analyze images?
+-  What is an image? What is AI?
+-  How do we analyze images with AI?
 -  What can we learn from analyzing images?
 
 # Tentative Schedule
