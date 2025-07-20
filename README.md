@@ -52,17 +52,21 @@ The course is guided by three questions:
 
 ## Thursday 
 
-### 8b (1.5h) AI: 
+### 8b (1.5h) AI
+   - Collab Notebook
+   - 
 
-### 9b (1.5h)
+### 9b (1.5h) AI: 
 
-### 10b (1.5h)
+### 10b (1.5h) Explore Projects
+- Select one of the following projects. How are they using AI?
+      --  (Photogrammar)[www.photogrammar.org)
 
 ## Friday
 
-### 11b (1.5h)
+### 11b (1.5h) Images and LLMs:
 
-### 12b (1.5h)
+### 12b (1.5h) AI and LLMs
 
 ### Final Presentations 
 
