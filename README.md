@@ -38,7 +38,7 @@ The course is guided by three questions:
 
 ### 5b (1.5h) How do we organize image data?
   - Data, Metadata, and Structure
-  - Let's organize a data set! [Slides](https://docs.google.com/presentation/d/1VLUJdGBbKb5FH4RJYr4NSZxCQ-lCdmKh/edit?usp=sharing&ouid=111306145257600151798&rtpof=true&sd=true)
+  - Let's organize a data set! [Slides](https://docs.google.com/presentation/d/1VLUJdGBbKb5FH4RJYr4NSZxCQ-lCdmKh/edit?usp=sharing&ouid=111306145257600151798&rtpof=true&sd=true) and [Data set](https://docs.google.com/spreadsheets/d/1FKJb22Z5CaFkQxykE9EGCwcsQ382OBp83DtiK-qixaY/edit?usp=sharing)
 
 ### 6b (1.5h)  What is AI?
 - Let's discuss: What is AI?
