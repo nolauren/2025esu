@@ -1,6 +1,6 @@
 # 2025 ESU: AI and Images
 
-https://github.com/nolauren/2025
+https://github.com/nolauren/2025esu
 
 
 Materials for AI and Images course at ESU 2025 in Besancon, France. 
