@@ -19,6 +19,14 @@ The course is guided by three questions:
   - Write for yourself: What are 2-3 ways that will support your engagement through this week?
   -  Share with the person next to you. Select 2-3 to share with the group.
   - Share your 2-3 with the group.
+  - Shared Guidelines
+    - Hands on and lecturing; interactive! 
+    - Attention to language clarity and taking our time.
+    - Collaboration and working groups.
+    - Saying when one doesn't understand a certain or phrase.
+    - All questions are great!
+    - 
+    
   - Any that we should add/adjust?
 
 ### 2b: What is an image?  (1.5h)
