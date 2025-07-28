@@ -31,7 +31,7 @@ The course is guided by three questions:
 
 ### 2b: What is an image?  (1.5h)
   - Let's discuss: What is an image? How would you define it?
-  - How does a computer see an image? [Slides 1-13 and Colab](https://distantviewing.org/tutorial/dvt_tutorial_slides_01.pdf)
+  - How does a computer see an image? [Slides 1-13](https://distantviewing.org/tutorial/dvt_tutorial_slides_01.pdf) and [Colab](https://colab.research.google.com/drive/1qQKQw8qHsTG7mK7Rz-z8nBfl98QBMWGf?usp=sharing).
   
     
 ### 3b: What is an image? What is your data? (1.5h)
