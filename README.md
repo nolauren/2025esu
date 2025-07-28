@@ -23,9 +23,9 @@ The course is guided by three questions:
     - Hands on and lecturing; interactive! 
     - Attention to language clarity and taking our time.
     - Collaboration and working groups.
-    - Saying when one doesn't understand a certain or phrase.
-    - All questions are great!
-    - 
+    - Saying when one doesn't understand a certain idea or phrase.
+    - All questions are great and at any time!
+      
     
   - Any that we should add/adjust?
 
