@@ -88,7 +88,7 @@ The course is guided by three questions:
 - Prompting with LLMs
 
 ### 12b (1.5h) Images and LLMs:
-- Comparing images with LLMs [Colab Notebook](https://colab.research.google.com/drive/15IPwF5MxJHNqmIoRDGEQK8MMIpyqkv_C?authuser=4#scrollTo=xMK8wuwrOAuy))
+- Comparing images with LLMs [Colab Notebook](https://colab.research.google.com/drive/15IPwF5MxJHNqmIoRDGEQK8MMIpyqkv_C?usp=sharing)
 
 ### Final Presentations 
 
