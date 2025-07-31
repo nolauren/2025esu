@@ -73,7 +73,9 @@ The course is guided by three questions:
 
 ### 9b (1.5h) AI:  What else can we do?
 - Explore [Papers + Code](https://paperswithcode.com/methods) or [Hugging Face](https://huggingface.co/) in a group.
-- Select 1-2 methods to share with everyone and explain what the method does, why it interested your group, and how it might applied. 
+- Select 1-2 methods to share with everyone and explain what the method does, why it interested your group, and how it might applied.
+
+- [smaller data](https://drive.google.com/drive/folders/1Ib33JtdrJPBHxJmdkFZGMF1Rqv8hsS-7?usp=sharing) 
 
  
 ### 10b (1.5h) Explore Projects
